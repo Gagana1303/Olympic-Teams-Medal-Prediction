@@ -7,13 +7,13 @@ This project predicts the number of medals Olympic teams might win based on hist
 ## Dataset
 - teams.csv: Contains team-level data from past Olympic events.
 - Features include:
-   team: Team name
-   country: Country code
-   year: Olympic year
-   athletes: Number of athletes
-   age: Average age of athletes
-   prev_medals: Previous medal count
-   medals: Medals won in the current year
+   team: Team name,
+   country: Country code,
+   year: Olympic year,
+   athletes: Number of athletes,
+   age: Average age of athletes,
+   prev_medals: Previous medal count,
+   medals: Medals won in the current year.
 
 ## Tools and Libraries
 - Python
