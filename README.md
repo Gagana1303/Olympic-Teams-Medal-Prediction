@@ -54,7 +54,7 @@ Using basic machine learning techniques and historical data, we can reasonably e
 
 ## Contact
 Gagana M R
-Email: gaganamr710@gmail.com
-LinkedIn: linkedin.com/in/gagana-m-r-3bb0172a4
+1. Email: gaganamr710@gmail.com
+2. LinkedIn: https://www.linkedin.com/in/gagana-m-r-3bb0172a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 #machinelearning #Olymic #medalprediction #datascience #python #scikitlearn
